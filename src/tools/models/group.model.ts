@@ -1,4 +1,5 @@
 import { AuditModel } from "./audit.model";
+import { RoleModel } from "./role.model";
 
 export class GroupModel {
     id: string;
